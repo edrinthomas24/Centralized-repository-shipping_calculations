@@ -1,4 +1,3 @@
-# Here is another update by edrinthomas24
 # Here is a new update by edrinthomas24
 # Shipping Cost Calculator
 ## Input package weight and shipping rate
